@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "AXA Rev-Research"
+
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[params]
+  google_analytics_id=""
+  [params.homepage_meta_tags]
+    meta_description = "AXA Rev-Research"
+    meta_og_title = "AXA Rev-Research"
+    meta_og_type = "website"
+    meta_og_url = "https://axa-rev-research.github.io/"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "AXA Rev-Research"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@vincentballet"
+    meta_twitter_creator = "@vincentballet"
+
+  [params.logo]
+      standard  = "logo.svg"

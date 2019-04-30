@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:axa-rev-research/axa-rev-research.github.io
+	branch = master
